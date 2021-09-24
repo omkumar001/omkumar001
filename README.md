@@ -6,7 +6,7 @@
 ### Hi there , I'm Om Kumar Thakur <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 ---
 
-- 🔭 I’m currently working on Web Apps .
+- 🔭 Currently working on Web Apps .
 - 🌱 Currently learning ReactJS .
 - 👯 Looking to collaborate on full stack web projects .
 - ⚡ Fun fact: I keep on listening and singing new songs every now and then  😂 .
