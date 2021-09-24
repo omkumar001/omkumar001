@@ -1,7 +1,7 @@
 ### Hi there , I'm Om Kumar Thakur 👋
 
 <br/>
-<br/>
+
 
 - 🔭 I’m currently working on Collab Buddy .
 - 🌱 I’m currently learning ReactJS .
@@ -10,11 +10,14 @@
 - ⚡ Fun fact: I keep on listening and singing new songs every now and then  😂 .
 
 
+<br/>
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+<br/>
 
 <a href="https://github.com/omkumar001">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkumar001&theme=light&hide_langs_below=1" />
