@@ -32,13 +32,6 @@
 </a>
 
 
-
-
-
 <br/>
 <br/>
-
-
-https://badges.pufler.dev/visits/{omkumar001}/{repo}
-<!-- [![Visits Badge](https://badges.pufler.dev/visits/omkumar001/git-badges)](https://badges.pufler.dev) -->
 
