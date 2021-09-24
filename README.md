@@ -32,7 +32,7 @@
 ### Git Stats 
 
 
-<a href="https://www.instagram.com/omkumar001/">
+<a href="https://github.com/omkumar001/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkumar001&hide=html,css&layout=compact" />
 </a>
 
