@@ -36,4 +36,4 @@
 <br/>
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+![Visitor Count](https://profile-counter.glitch.me/{omkumar001}/count.svg)
