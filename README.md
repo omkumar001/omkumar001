@@ -31,6 +31,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkumar001&theme=light&hide_langs_below=1" />
 </a>
 
+[![Om's code stats](https://github-readme-stats.vercel.app/api/wakatime?username=omkumar001)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <br/>
