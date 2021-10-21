@@ -9,7 +9,9 @@
 - 🔭 Currently working on Web Apps .
 - 🌱 Currently learning ReactJS .
 - 👯 Looking to collaborate on full stack web projects .
+- 📫 How to reach me : omkumarbhu@gmail.com
 - ⚡ Fun fact: I keep on listening and singing new songs every now and then  😂 .
+
 
 <br/>
 
