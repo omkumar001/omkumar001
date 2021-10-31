@@ -34,7 +34,7 @@
 
 
 <a href="https://github.com/omkumar001/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkumar001&hide=Jupyter Notebook&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkumar001&hide=Jupyter Notebook&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </a>
 
 <br/>
