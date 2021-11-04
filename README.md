@@ -8,7 +8,7 @@
 
 - 🔭 Currently working on Smart Parking System and Collab Buddy .
 - 🌱 Currently learning ReactJS .
-- 👯 Looking to collaborate on full stack web projects .
+- 👯 Looking to contribute in open source web projects .
 - 📫 How to reach me : omkumarbhu@gmail.com
 - ⚡ Fun fact: I keep on listening and singing new songs every now and then  😂 .
 
