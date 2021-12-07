@@ -6,7 +6,7 @@
 ### Hi there , I'm Om <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 ---
 
-- 🔭 Currently working on SPS .
+- 🔭 Building SPS .
 - 🌱 Currently learning ReactJS .
 - 👯 Looking to contribute in open source web projects .
 - 📫 How to reach me : omkumarbhu@gmail.com
