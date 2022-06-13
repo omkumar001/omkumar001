@@ -3,9 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/om-kumar-thakur-46349018a/)](https://www.linkedin.com/in/om-kumar-thakur-46349018a/)
 
 
-### Hi there , I'm Om <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+### Hi ,
+###     I'm Om , 3rd year UG at IIITV <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 ---
 
+- 💻 Full Stack Web Developer
 - 🔭 Building SPS .
 - 🌱 Currently learning ReactJS .
 - 👯 Looking to contribute in open source web projects .
