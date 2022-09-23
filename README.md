@@ -4,7 +4,7 @@
 
 
 ### Hi there , I'm Om
-### A 3rd year UG at IIITV <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+### A 4th year UG at IIITV <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 ---
 
 - 💻 Full Stack Web Developer
