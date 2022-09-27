@@ -10,6 +10,7 @@
 - 💻 Full Stack Web Developer
 - 🔭 Building SPS .
 - 🌱 Currently learning ReactJS .
+- 🔭 Exploring App Development .
 - 👯 Looking to contribute in open source web projects .
 - 📫 How to reach me : omkumarbhu@gmail.com
 - ⚡ Fun fact: I keep on listening and singing new songs every now and then  😂 .
