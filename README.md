@@ -6,16 +6,16 @@
 
 
 ### Hi there , I'm Om
-### A 4th year UG at IIITV <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+### SWE and Final Year UG at IIITV <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 ---
 
 - 💻 Full Stack Web Developer
 - 🔭 Building SPS .
-- 🌱 Currently learning ReactJS .
-- 🔭 Exploring App Development .
+- 🌱 Currently learning Angular .
+- 🔭 Exploring Typescript .
 - 👯 Looking to contribute in open source web projects .
 - 📫 How to reach me : omkumarbhu@gmail.com
-- ⚡ Fun fact: I keep on listening and singing new songs every now and then  😂 .
+- ⚡ Fun fact: There is nothing funny , tbh  😂 .
 
 
 <br/>
@@ -29,24 +29,3 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-
-
-<br/>
-<br/>
-
-### Git Stats 
-
-
-<a href="https://github.com/omkumar001/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkumar001&hide=Jupyter Notebook&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="400"/>
-</a>
-
-
-<a href="https://github.com/omkumar001">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=omkumar001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"  alt="Om's github stats" width="400"/>
-</a>
-
-
-
-<br/>
