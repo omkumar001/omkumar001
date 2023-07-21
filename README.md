@@ -6,7 +6,7 @@
 
 
 ### Hi there , I'm Om
-### SWE and Final Year UG at IIITV <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+### SWE || IIITV <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 ---
 
 - 💻 Full Stack Web Developer
