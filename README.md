@@ -6,16 +6,16 @@
 
 
 ### Hi there , I'm Om
-### SWE || IIITV <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+### Senior SWE <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 ---
 
-- 💻 Full Stack Web Developer
-- 🔭 Building SPS .
-- 🌱 Currently learning Angular .
-- 🔭 Exploring Typescript .
-- 👯 Looking to contribute in open source web projects .
+- 💻 Full Stack  
+- 🔭 Building Scalable E - Commerce Application.
+- 🌱 Currently learning JAVA + SpringBoot + Distributed Systems.
+- 🔭 Exploring 
+- 👯 Looking for Full Stack (Angular + SpringBoot) + Agentic AI full time opportunities.
 - 📫 How to reach me : omkumarbhu@gmail.com
-- ⚡ Fun fact: There is nothing funny , tbh  😂 .
+- ⚡ Fun fact : Starting reading Finance / Self-Help books in my freetime.
 
 
 <br/>
