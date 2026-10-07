@@ -14,7 +14,7 @@
 - 🌱 Currently learning JAVA + SpringBoot + Distributed Systems.
 - 👯 Looking for Full Stack (Angular + SpringBoot) + Agentic AI full time opportunities.
 - 📫 How to reach me : omkumarbhu@gmail.com
-- ⚡ Fun fact : Starting reading Finance / Self-Help books in my freetime.
+- ⚡ Fun fact : Started reading Finance / Self-Help books in my freetime.
 
 
 <br/>
