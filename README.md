@@ -33,5 +33,4 @@
 
 ### Dashboard :
 
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=65749796-2533-4be9-a2d4-ca8fa2427afd&theme=dark)](https://wakatime.com/@65749796-2533-4be9-a2d4-ca8fa2427afd)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api?username=65749796-2533-4be9-a2d4-ca8fa2427afd&show_icons=true&theme=radical)](https://wakatime.com/@65749796-2533-4be9-a2d4-ca8fa2427afd)
