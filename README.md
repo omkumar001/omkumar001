@@ -12,8 +12,7 @@
 - 💻 Full Stack SWE
 - 🔭 Building Scalable E - Commerce Application.
 - 🌱 Currently learning JAVA + SpringBoot + Distributed Systems.
-- 👯 Looking for Full Stack (Angular + SpringBoot) + Agentic AI full time opportunities.
-- 📫 How to reach me : omkumarbhu@gmail.com
+- 👯 Looking for Full Stack (Angular + SpringBoot + Agentic AI) opportunities.
 - ⚡ Fun fact : Started reading Finance / Self-Help books in my freetime.
 
 
