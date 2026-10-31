@@ -59,15 +59,9 @@ Full Stack SWE <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs
 
 <table>
   <tr>
-    <td>
-      <a href="https://wakatime.com/@65749796-2533-4be9-a2d4-ca8fa2427afd">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=65749796-2533-4be9-a2d4-ca8fa2427afd&theme=radical" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/omkumar001">
-        <img src="https://github-readme-stats.vercel.app/api?username=omkumar001&show_icons=true&theme=radical" />
-      </a>
+    <td align="center">
+      <!--START_SECTION:waka-->
+      <!--END_SECTION:waka-->
     </td>
   </tr>
 </table>
