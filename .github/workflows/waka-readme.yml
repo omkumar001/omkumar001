@@ -3,7 +3,6 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs automatically every day at midnight UTC
     - cron: "0 0 * * *"
 
 jobs:
@@ -12,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: anmol098/waka-readme-stats@master
+      - name: WakaTime Readme Stats
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
