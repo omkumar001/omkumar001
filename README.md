@@ -63,8 +63,9 @@ Full Stack SWE <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs
       <!--START_SECTION:waka-->
 
 ```txt
-Markdown   8 hrs 40 mins         ████████████████▒░░░░░░░░   65.23 %
-Java       4 hrs 37 mins         ████████▓░░░░░░░░░░░░░░░░   34.77 %
+Markdown   9 hrs 46 mins         █████████████████▒░░░░░░░   68.96 %
+Java       4 hrs 24 mins         ███████▓░░░░░░░░░░░░░░░░░   31.04 %
+JSON       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
